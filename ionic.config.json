@@ -1,0 +1,7 @@
+{
+  "name": "breaky",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
