@@ -1,3 +1,46 @@
 {
-  "location": [{}]
+  "location": [
+    {
+      "at": "Fri, 18 Mar 2022 07:10:38 GMT",
+      "latitude": 51.0548353,
+      "longitude": 3.7319495,
+      "id": 1
+    },
+    {
+      "at": "Fri, 18 Mar 2022 07:10:38 GMT",
+      "latitude": 51.0548353,
+      "longitude": 3.7319495,
+      "id": 2
+    },
+    {
+      "at": "Fri, 18 Mar 2022 07:10:50 GMT",
+      "latitude": 51.0548372,
+      "longitude": 3.7319502,
+      "id": 3
+    },
+    {
+      "at": "Fri, 18 Mar 2022 07:10:50 GMT",
+      "latitude": 51.0548372,
+      "longitude": 3.7319502,
+      "id": 4
+    },
+    {
+      "at": "Fri, 18 Mar 2022 07:11:01 GMT",
+      "latitude": 51.0548386,
+      "longitude": 3.73196,
+      "id": 5
+    },
+    {
+      "at": "Fri, 18 Mar 2022 07:11:01 GMT",
+      "latitude": 51.0548386,
+      "longitude": 3.73196,
+      "id": 6
+    },
+    {
+      "at": "Fri, 18 Mar 2022 07:11:13 GMT",
+      "latitude": 51.0548503,
+      "longitude": 3.7319472,
+      "id": 7
+    }
+  ]
 }
